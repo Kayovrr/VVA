@@ -2,6 +2,7 @@ Este programa foi feito apenas para fins de teste e aprendizado. Para falar a ve
 
 <b>Para rodar, é preciso:</b>
 <br>. Vá em dist, click em VVA.exe
+
 <b>OBS: Por limitações da API, ele apenas funcionará com as seguintes ações:</b>
 <br>. PETR4 (Petrobras PN)
 <br>. MGLU3 (Magazine Luiza ON)
